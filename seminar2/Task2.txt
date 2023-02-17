@@ -1,0 +1,20 @@
+февр. 17, 2023 10:57:44 PM seminar2.task2 babblSort
+INFO: [54, 97, 50, 48, 68, 45, 50, 5, 53, 1]
+февр. 17, 2023 10:57:44 PM seminar2.task2 babblSort
+INFO: [97, 54, 50, 68, 48, 50, 45, 53, 5, 1]
+февр. 17, 2023 10:57:44 PM seminar2.task2 babblSort
+INFO: [97, 54, 68, 50, 50, 48, 53, 45, 5, 1]
+февр. 17, 2023 10:57:44 PM seminar2.task2 babblSort
+INFO: [97, 68, 54, 50, 50, 53, 48, 45, 5, 1]
+февр. 17, 2023 10:57:44 PM seminar2.task2 babblSort
+INFO: [97, 68, 54, 50, 53, 50, 48, 45, 5, 1]
+февр. 17, 2023 10:57:44 PM seminar2.task2 babblSort
+INFO: [97, 68, 54, 53, 50, 50, 48, 45, 5, 1]
+февр. 17, 2023 10:57:44 PM seminar2.task2 babblSort
+INFO: [97, 68, 54, 53, 50, 50, 48, 45, 5, 1]
+февр. 17, 2023 10:57:44 PM seminar2.task2 babblSort
+INFO: [97, 68, 54, 53, 50, 50, 48, 45, 5, 1]
+февр. 17, 2023 10:57:44 PM seminar2.task2 babblSort
+INFO: [97, 68, 54, 53, 50, 50, 48, 45, 5, 1]
+февр. 17, 2023 10:57:44 PM seminar2.task2 babblSort
+INFO: [97, 68, 54, 53, 50, 50, 48, 45, 5, 1]
